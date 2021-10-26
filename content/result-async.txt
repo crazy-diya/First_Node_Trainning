@@ -1,0 +1,3 @@
+new write file 
+ Hello this is second text file 
+ Hello this is first text file
